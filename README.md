@@ -1,1 +1,1 @@
-# internship-project-
+MentorHub is an online platform designed to connect mentors with mentees. The backend is built using Node.js, with Express as the web framework and MongoDB as the database. The backend manages functionalities such as authentication, booking of mentors, scheduling, and payments through Razorpay.
